@@ -1,0 +1,9 @@
+{
+  "model_path": "./results/checkpoint-5017",
+  "threshold": 0.205,
+  "metrics": {
+    "macro_f1": 0.5758,
+    "micro_f1": 0.9015,
+    "subset_accuracy": 0.8138
+  }
+}
