@@ -1,1 +1,5 @@
 venv/*
+results/
+*.safetensors
+*.pt
+test_results/
