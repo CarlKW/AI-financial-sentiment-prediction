@@ -1,4 +1,4 @@
 experiment,method,test_rmse
-hard_vs_soft,softImpute,0.008622733666626508
-hard_vs_soft,hard_oracle_r10,0.00934589516358063
-hard_vs_soft,hard_selected_r40,0.06297873248331697
+hard_vs_soft,softImpute,0.0004394551995710864
+hard_vs_soft,hard_oracle_r10,0.00047631092215893843
+hard_vs_soft,hard_selected_r40,0.003209693413042406
